@@ -3,7 +3,11 @@
 	padding: 0;
 }
 body {
+<<<<<<< HEAD
 	background-color: blue;
+=======
+	background-color: blue;
+>>>>>>> 5b8c7942fe6f0be5befc04f4fa2b296438f9d15e
 	font-size: 100%;
 	color: rgb(102, 102, 102);
 	font-family: Arial, helvetica, sans-serif;
