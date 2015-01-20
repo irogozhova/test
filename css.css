@@ -9,6 +9,9 @@ body {
 	font-family: Arial, helvetica, sans-serif;
 	font-weight: normal;
 }
+h1 {
+	font-size: 25px;
+}
 #wrapper {
 	width: 96%;
     max-width: 920px;
